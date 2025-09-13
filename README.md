@@ -25,7 +25,7 @@ Built using Python and Streamlit, and integrated with the IBM Granite 13B Instru
 
 | Name                   | Role                                     | Key Contributions                                                                 |
 |------------------------|------------------------------------------|------------------------------------------------------------------------------------|
-|                    | Team Leader, AI Integration & Deployment | Integrated IBM Granite API, built full app logic, deployed app, managed GitHub     |
+poluru Sujatha          | Team Leader, AI Integration & Deployment | Integrated IBM Granite API, built full app logic, deployed app, managed GitHub     |
 |                    | Module Developer                         | Designed healthcare logic flows, refined prompts, structured module interactions   |
 |                    | UI/UX Design & Branding              | Designed app layout and interface, supported visuals, branding, and styling        |
 |                    | Testing & Optimization                   | Tested features, improved app responses, managed offline functionality, recording  |
